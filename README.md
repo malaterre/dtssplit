@@ -4,8 +4,10 @@ dtssplit
 Steps:
 ------
 
+```
 $ cmake .
 $ make
+```
 
 XML-ZLIB:
 ---------
