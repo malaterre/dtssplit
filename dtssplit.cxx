@@ -1,7 +1,7 @@
 #include <fstream>
 #include <vector>
 #include <cassert>
-#include <cstring> // strcmp
+#include <cstring>
 #include <stdint.h>
 #include <zlib.h>
 
